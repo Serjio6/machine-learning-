@@ -38,5 +38,3 @@ This project predicts the potential Purple Cap winner in the IPL using a Support
 - Compare SVM with other machine learning algorithms.
 - Deploy the model using Streamlit for a live web application.
 
-## Author
-Nandhu
